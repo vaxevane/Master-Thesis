@@ -1,6 +1,6 @@
 function [full_road,count_red_top,count_red_left] = copying_roads(full_road,hor_temp,hor2_temp,hor3_temp,...
     hor4_temp,hor5_temp,hor6_temp,vert_temp,vert2_temp,vert3_temp,vert4_temp,vert5_temp,vert6_temp,vert7_temp,inter_cell,...
-    count_red_top,count_red_left,top_is_red,sph,spv)
+    count_red_top,count_red_left,top_is_red,sph,spv
 
 inter1 = inter_cell{1};
 inter2 = inter_cell{2};
